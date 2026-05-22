@@ -24,7 +24,7 @@
   <h2>お問い合わせ</h2>
   <p>ご質問・不具合報告は以下へご連絡ください。</p>
 
-  <p>yourmail@example.com</p>
+  <p>tw2_iwvh@au.com</p>
 
   <h2>プライバシーポリシー</h2>
   <p>
